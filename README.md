@@ -205,8 +205,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@AYeagerr](https://github.com/AYeagerr)
+- Email: abdulrhman.mohamed026@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -214,14 +214,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Object-Oriented Programming concepts
 - All contributors and testers
 
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/studymile?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/studymile?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/studymile)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/studymile)
-
----
 
 <div align="center">
 
@@ -230,3 +222,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Made with ❤️ for students and developers
 
 </div>
+
