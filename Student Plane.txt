@@ -1,0 +1,5 @@
+Computer_Graphicsa	6.72
+Simulation	4.48
+Numerical	5.37
+algorithms	6.72
+ai	6.72
